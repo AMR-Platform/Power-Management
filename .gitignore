@@ -4,7 +4,7 @@ History/
 *.PcbLib
 *.SchLib
 *.PrjPcbStructure
-History/  
+History/
 Project Logs for AMR_power/
 Project Outputs for AMR_power/
 *.OutJob
@@ -12,4 +12,3 @@ Project Outputs for AMR_power/
 *.log
 *.bak
 *.drc
-images/
