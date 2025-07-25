@@ -60,7 +60,7 @@ In mobile robotic platforms, reliable power management is essential for ensuring
 </p>
 
 <p align="left">
-  <img src="images/Screenshot 2025-07-25 184605" alt="Top Layer" width="400"/>
+  <img src="images/Screenshot 2025-07-25 184605.png" alt="Top Layer" width="400"/>
   <br/>
   <em>Top View – Top Layer</em>
 </p>
